@@ -1,4 +1,14 @@
-## Hi there 👋
+### ABOUT ME
+
+
+# Languages I have worked with
+- SQL
+- C#
+- Java
+- Flutter
+- CSS/HTML
+- Visual Basic
+
 
 <!--
 **eespino11/eespino11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
