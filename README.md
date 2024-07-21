@@ -1,7 +1,11 @@
-### ABOUT ME
+## Hello, I'm [Eduardo Espino!](https://www.linkedin.com/in/eduardo-espino11/)
+
+### About ME
+I am Data Solutions Engineer with a Bachelors in Computer Science
+I enjoy learning new things and challenging myself
 
 
-# Languages I have worked with
+### Languages I have worked with
 - SQL
 - C#
 - Java
